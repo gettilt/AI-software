@@ -1,0 +1,639 @@
+{
+    "AAPL": {
+        "chat_gpt": "Apple's Siri uses AI for voice interactions, and its focus on privacy could make its AI solutions attractive for certain applications.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/ripster47/status/1785131316985413777",
+                "text": "\ud83d\udea8\ud83d\udca1 Community Trade Recaps & Teachings\n-->How to Identify Choppiness & Sit On Hands $SPY $QQQ\n-->Identify Sector Weakness at Open $NVDA $AMD\n-->Relative Strength Plays $BA $SMCI \n-->34/50 Flag Setup $TSLA\n\ud83d\udc47\ud83d\udc47\nhttps://t.co/qMfZuargra\n\n$NVDA $AAPL $SHOP $MSFT $SPX $COIN",
+                "username": "ripster47",
+                "user_url": "https://twitter.com/ripster47",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1742746327514329088/QOb_mn9v_normal.jpg",
+                "date": "2024-04-30T02:17:26Z"
+            },
+            {
+                "url": "https://twitter.com/IamJohnJsmith/status/1787140819222237660",
+                "text": "May 24\u2019 is the Month of #SwingTrading stocks in $XLC & $XLK sectors. I\u2019m more invested in $XLC. \n\nTop 4 Companies in $XLC:\n$NFLX \n$GOOGL\n$META\n$DIS (Earnings May 7th) \n\nTop 4 Companies in $XLK:\n$MSFT\n$AAPL (Earnings was May 2nd) \n$NVDA (Earnings May 22nd)\n$TSM \n\n$SPY #SPY #StockMarketNews #StockMarket #OptionsTrading",
+                "username": "IamJohnJsmith",
+                "user_url": "https://twitter.com/IamJohnJsmith",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1035198915149062144/S3PfK4oD_normal.jpg",
+                "date": "2024-05-05T15:22:29Z"
+            },
+            {
+                "url": "https://twitter.com/KevRGordon/status/1788238996155343007",
+                "text": "The Utilities sector is outperforming three Magnificent 7 members -- $MSFT, $AAPL, and $TSLA -- so far this year https://t.co/IxDvXyl2XY",
+                "username": "KevRGordon",
+                "user_url": "https://twitter.com/KevRGordon",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1768756367593177088/ccXrOxex_normal.jpg",
+                "date": "2024-05-08T16:06:15Z"
+            }
+        ],
+        "experts": []
+    },
+    "ADBE": {
+        "chat_gpt": "Adobe integrates AI in its creative and marketing software, enhancing productivity and creativity through AI-driven tools.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Beth_Kindig/status/1787929732681547975",
+                "text": "Our focus has moved away from cloud stocks, influenced by the potential of AI to significantly disrupt this sector. \n\nThe weak will either go out of business or get acquired, and the strong will move on due to their ability to leverage AI.  \n\n$MSFT $ADBE $SNOW $CRM $DDOG $SNOW $MDB\n\n@RealVision",
+                "username": "Beth_Kindig",
+                "user_url": "https://twitter.com/Beth_Kindig",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1606046913140101120/ogy7cKEX_normal.jpg",
+                "date": "2024-05-07T19:37:21Z"
+            },
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1786816672793284863",
+                "text": "$FTZ $FTZFF Copper is going to see the largest run in the metals sector IMO $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BYND $CRON $DIS $DISH $ELY $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU $SNAP $SPY $TLT $T $TSLA $TVIX $UWT $UVXY $V $VXX $XOM",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-05-04T17:54:26Z"
+            },
+            {
+                "url": "https://twitter.com/BossTradingGrp/status/1788045881994068363",
+                "text": "#Darkpool\nLARGE: $AAPL $MSFT $QCOM $TAL $VIPS $IQ $AFRM $TTD $IONQ $OTEX $ORGO $ADBE $TGT\nSECTOR: $XLP\nETF: $SPXL $COPX\n30% in $SPXL \n\n#BOSSTrading https://t.co/gP11cGQ9fa",
+                "username": "BossTradingGrp",
+                "user_url": "https://twitter.com/BossTradingGrp",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1784669782991847424/FkGtGIcJ_normal.jpg",
+                "date": "2024-05-08T03:18:53Z"
+            }
+        ],
+        "experts": []
+    },
+    "AMZN": {
+        "chat_gpt": "Amazon leverages AI across its businesses, including AWS for AI services and Alexa for voice interactions.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://sitegpt.ai/blog/companies-using-chatbots-for-customer-service",
+                "title": "16 Leading Companies Using Chatbots for Customer Service",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://builtin.com/artificial-intelligence/ai-companies-roundup",
+                "title": "75 Artificial Intelligence (AI) Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Beth_Kindig/status/1788597774079984010",
+                "text": "With growth accelerating on the backs on AI services, $MSFT Azure is gaining market share on $AMZN AWS, with a 7 percentage point gap between the two. \n\n$GOOG $NVDA https://t.co/x0i7Waxt5F",
+                "username": "Beth_Kindig",
+                "user_url": "https://twitter.com/Beth_Kindig",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1606046913140101120/ogy7cKEX_normal.jpg",
+                "date": "2024-05-09T15:51:54Z"
+            },
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1786816672793284863",
+                "text": "$FTZ $FTZFF Copper is going to see the largest run in the metals sector IMO $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BYND $CRON $DIS $DISH $ELY $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU $SNAP $SPY $TLT $T $TSLA $TVIX $UWT $UVXY $V $VXX $XOM",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-05-04T17:54:26Z"
+            },
+            {
+                "url": "https://twitter.com/finplify/status/1786146215320592454",
+                "text": "Today US Markets Most Traded:\n\nPrice: Var: Volume: Value Vol:  Sector:\n$NVDA: $858 +3.34% 37M $32B 2.15T Tech\n$TSLA: $180 +0.01% 88.8M $16B 574B Car\n$AAPL: $173 +2.20% 87.5M $15B 2.67T Tech\n$AMZN: $185 +3.20% 54M $10B 1.92T Retail\n$AMD: $146 +1.31% 49.8M $7.3B 236B Tech\n$MSFT: $398 +0.73% 17.6M $7B 2.96T Tech\n$META: $442 +0.57% 15M $6.7B 1.12T Tech\n\n#Stocks #US #Finance #Investing #MostTraded",
+                "username": "finplify",
+                "user_url": "https://twitter.com/finplify",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1690650675691003904/ojnWtMlR_normal.png",
+                "date": "2024-05-02T21:30:17Z"
+            }
+        ],
+        "experts": []
+    },
+    "CRM": {
+        "chat_gpt": "Salesforce uses AI to enhance customer relationship management, including AI chatbots for service and sales.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "GOOGL": {
+        "chat_gpt": "Google's extensive AI research and applications, including chatbots in its services, positions it to benefit significantly.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://builtin.com/artificial-intelligence/ai-companies-roundup",
+                "title": "75 Artificial Intelligence (AI) Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.stash.com/learn/top-ai-companies/",
+                "title": "15 Largest AI Companies in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.theforage.com/blog/companies/top-ai-companies",
+                "title": "22+ Top AI Companies to Watch in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/StockSavvyShay/status/1784554585014612049",
+                "text": "Here is my \u2018cheat sheet\u2019 broken down by sector that I\u2019m watching this earnings season \ud83d\udc47\ud83c\udffc\n\n\ud83e\udd16 Generative AI | $MSFT, $SNOW, $PLTR, $MDB, $DDOG, $CFLT, $PATH\n\n\u26a1\ufe0f Chip Industry | $NVDA, $AMD, $KLAC, $AMAT, $AVGO, $ARM, $TSM, $MU, $MRVL, $ASML\n\n\u2601\ufe0f Cloud Infrastructure | $GOOGL, $MSFT, $AMZN, $DOCN\n\n\ud83d\udcb8 Fintech | $SOFI, $PYPL, $FOUR, $DLO, $HOOD, $ADYEY, $NU \n\n\ud83c\udfb2 Small Caps | $TMDX, $INDI, $NVTS, $AEHR, $NNOX, $ASTS, $IONQ, $RKLB, $PI, $HIMS\n\n\ud83d\udecd\ufe0f E-Commerce | $MELI, $GLBE, $SHOP, $SE, $CPNG, $JMIA\n\n\ud83d\udd0b Solar/EV | $TSLA, $FSLR, $ENPH, $STEM, $ENVX, $EOSE",
+                "username": "StockSavvyShay",
+                "user_url": "https://twitter.com/StockSavvyShay",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1673400109130985472/l7gl8_pD_normal.jpg",
+                "date": "2024-04-28T12:05:43Z"
+            },
+            {
+                "url": "https://twitter.com/IamJohnJsmith/status/1787140819222237660",
+                "text": "May 24\u2019 is the Month of #SwingTrading stocks in $XLC & $XLK sectors. I\u2019m more invested in $XLC. \n\nTop 4 Companies in $XLC:\n$NFLX \n$GOOGL\n$META\n$DIS (Earnings May 7th) \n\nTop 4 Companies in $XLK:\n$MSFT\n$AAPL (Earnings was May 2nd) \n$NVDA (Earnings May 22nd)\n$TSM \n\n$SPY #SPY #StockMarketNews #StockMarket #OptionsTrading",
+                "username": "IamJohnJsmith",
+                "user_url": "https://twitter.com/IamJohnJsmith",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1035198915149062144/S3PfK4oD_normal.jpg",
+                "date": "2024-05-05T15:22:29Z"
+            },
+            {
+                "url": "https://twitter.com/simon_ree/status/1785303161089183980",
+                "text": "**Big Tech \u2013 Back to Reality**\n\nIn today\u2019s video newsletter, we dive into the heart of the tech sector, where I explore the pulse of the NASDAQ following recent earnings announcements from tech titans such as $MSFT, $GOOGL, $NFLX, $META and $TSLA. I also preview earnings this week from $AMZN and $AAPL. \n\nI\u2019ll break down their stock performances, and provide insight into the emerging trends and the underlying risks shaping the landscape. \n\nThis video is your essential guide to understanding key market movements and crafting strategic trading decisions in the dynamic world of big tech. \n\nTune in to learn why I think the next move in the NASDAQ is likely to be lower!\n\nSubscribe to the Tao Daily video newsletter by clicking the link in profile",
+                "username": "simon_ree",
+                "user_url": "https://twitter.com/simon_ree",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1732953516518543360/4HJCW9tM_normal.jpg",
+                "date": "2024-04-30T13:40:17Z"
+            }
+        ],
+        "experts": []
+    },
+    "IBM": {
+        "chat_gpt": "IBM's Watson AI has applications in business intelligence and chatbots, offering AI solutions to enterprises.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.investopedia.com/best-ai-stocks-8549813",
+                "title": "Best AI Stocks for May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+                "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "INTC": {
+        "chat_gpt": "Intel provides hardware that supports AI computing, benefiting indirectly from the growth in AI applications.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "MSFT": {
+        "chat_gpt": "Microsoft is heavily investing in AI for cloud computing services and Office productivity tools, which includes AI-driven chatbots.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://builtin.com/artificial-intelligence/ai-companies-roundup",
+                "title": "75 Artificial Intelligence (AI) Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.stash.com/learn/top-ai-companies/",
+                "title": "15 Largest AI Companies in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.theforage.com/blog/companies/top-ai-companies",
+                "title": "22+ Top AI Companies to Watch in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/StockSavvyShay/status/1784554585014612049",
+                "text": "Here is my \u2018cheat sheet\u2019 broken down by sector that I\u2019m watching this earnings season \ud83d\udc47\ud83c\udffc\n\n\ud83e\udd16 Generative AI | $MSFT, $SNOW, $PLTR, $MDB, $DDOG, $CFLT, $PATH\n\n\u26a1\ufe0f Chip Industry | $NVDA, $AMD, $KLAC, $AMAT, $AVGO, $ARM, $TSM, $MU, $MRVL, $ASML\n\n\u2601\ufe0f Cloud Infrastructure | $GOOGL, $MSFT, $AMZN, $DOCN\n\n\ud83d\udcb8 Fintech | $SOFI, $PYPL, $FOUR, $DLO, $HOOD, $ADYEY, $NU \n\n\ud83c\udfb2 Small Caps | $TMDX, $INDI, $NVTS, $AEHR, $NNOX, $ASTS, $IONQ, $RKLB, $PI, $HIMS\n\n\ud83d\udecd\ufe0f E-Commerce | $MELI, $GLBE, $SHOP, $SE, $CPNG, $JMIA\n\n\ud83d\udd0b Solar/EV | $TSLA, $FSLR, $ENPH, $STEM, $ENVX, $EOSE",
+                "username": "StockSavvyShay",
+                "user_url": "https://twitter.com/StockSavvyShay",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1673400109130985472/l7gl8_pD_normal.jpg",
+                "date": "2024-04-28T12:05:43Z"
+            },
+            {
+                "url": "https://twitter.com/Beth_Kindig/status/1787929732681547975",
+                "text": "Our focus has moved away from cloud stocks, influenced by the potential of AI to significantly disrupt this sector. \n\nThe weak will either go out of business or get acquired, and the strong will move on due to their ability to leverage AI.  \n\n$MSFT $ADBE $SNOW $CRM $DDOG $SNOW $MDB\n\n@RealVision",
+                "username": "Beth_Kindig",
+                "user_url": "https://twitter.com/Beth_Kindig",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1606046913140101120/ogy7cKEX_normal.jpg",
+                "date": "2024-05-07T19:37:21Z"
+            },
+            {
+                "url": "https://twitter.com/Beth_Kindig/status/1788597774079984010",
+                "text": "With growth accelerating on the backs on AI services, $MSFT Azure is gaining market share on $AMZN AWS, with a 7 percentage point gap between the two. \n\n$GOOG $NVDA https://t.co/x0i7Waxt5F",
+                "username": "Beth_Kindig",
+                "user_url": "https://twitter.com/Beth_Kindig",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1606046913140101120/ogy7cKEX_normal.jpg",
+                "date": "2024-05-09T15:51:54Z"
+            }
+        ],
+        "experts": []
+    },
+    "NVDA": {
+        "chat_gpt": "NVIDIA's GPUs are crucial for AI training and inference, directly benefiting from the increased use of AI in software.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/2024/05/10/buy-nvidia-stock-before-ai-reports-earnings-may-22/",
+                "title": "Should You Buy Nvidia Stock Before the AI Chipmaker Reports Earnings on May \n22?",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/05/7-robotics-stocks-to-bet-on-for-reliable-ai-powered-returns/",
+                "title": "7 Robotics Stocks to Bet On for Reliable AI-Powered Returns",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nerdwallet.com/article/investing/ai-stocks-invest-in-artificial-intelligence",
+                "title": "7 Top AI Stocks: May 2024 - NerdWallet",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/StockSavvyShay/status/1784554585014612049",
+                "text": "Here is my \u2018cheat sheet\u2019 broken down by sector that I\u2019m watching this earnings season \ud83d\udc47\ud83c\udffc\n\n\ud83e\udd16 Generative AI | $MSFT, $SNOW, $PLTR, $MDB, $DDOG, $CFLT, $PATH\n\n\u26a1\ufe0f Chip Industry | $NVDA, $AMD, $KLAC, $AMAT, $AVGO, $ARM, $TSM, $MU, $MRVL, $ASML\n\n\u2601\ufe0f Cloud Infrastructure | $GOOGL, $MSFT, $AMZN, $DOCN\n\n\ud83d\udcb8 Fintech | $SOFI, $PYPL, $FOUR, $DLO, $HOOD, $ADYEY, $NU \n\n\ud83c\udfb2 Small Caps | $TMDX, $INDI, $NVTS, $AEHR, $NNOX, $ASTS, $IONQ, $RKLB, $PI, $HIMS\n\n\ud83d\udecd\ufe0f E-Commerce | $MELI, $GLBE, $SHOP, $SE, $CPNG, $JMIA\n\n\ud83d\udd0b Solar/EV | $TSLA, $FSLR, $ENPH, $STEM, $ENVX, $EOSE",
+                "username": "StockSavvyShay",
+                "user_url": "https://twitter.com/StockSavvyShay",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1673400109130985472/l7gl8_pD_normal.jpg",
+                "date": "2024-04-28T12:05:43Z"
+            },
+            {
+                "url": "https://twitter.com/Beth_Kindig/status/1788597774079984010",
+                "text": "With growth accelerating on the backs on AI services, $MSFT Azure is gaining market share on $AMZN AWS, with a 7 percentage point gap between the two. \n\n$GOOG $NVDA https://t.co/x0i7Waxt5F",
+                "username": "Beth_Kindig",
+                "user_url": "https://twitter.com/Beth_Kindig",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1606046913140101120/ogy7cKEX_normal.jpg",
+                "date": "2024-05-09T15:51:54Z"
+            },
+            {
+                "url": "https://twitter.com/ripster47/status/1785131316985413777",
+                "text": "\ud83d\udea8\ud83d\udca1 Community Trade Recaps & Teachings\n-->How to Identify Choppiness & Sit On Hands $SPY $QQQ\n-->Identify Sector Weakness at Open $NVDA $AMD\n-->Relative Strength Plays $BA $SMCI \n-->34/50 Flag Setup $TSLA\n\ud83d\udc47\ud83d\udc47\nhttps://t.co/qMfZuargra\n\n$NVDA $AAPL $SHOP $MSFT $SPX $COIN",
+                "username": "ripster47",
+                "user_url": "https://twitter.com/ripster47",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1742746327514329088/QOb_mn9v_normal.jpg",
+                "date": "2024-04-30T02:17:26Z"
+            }
+        ],
+        "experts": []
+    },
+    "ORCL": {
+        "chat_gpt": "Oracle integrates AI into its cloud services and applications, improving efficiency and automation for its customers.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SHOP": {
+        "chat_gpt": "Shopify employs AI to optimize e-commerce, from personalized shopping experiences to inventory management.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SQ": {
+        "chat_gpt": "Square uses AI for financial services, including fraud detection and personalized customer experiences.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TEAM": {
+        "chat_gpt": "Atlassian is incorporating AI into its collaboration tools to improve project management and operational efficiency.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TWLO": {
+        "chat_gpt": "Twilio offers AI-powered communication services, enabling businesses to implement intelligent chatbots and customer engagement tools.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "ZM": {
+        "chat_gpt": "Zoom is integrating AI to enhance video communication services, including meeting summarization and real-time transcription.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "PLTR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.kiplinger.com/investing/stocks/tech-stocks/604842/smart-artificial-intelligence-ai-stocks-to-buy",
+                "title": "Best AI Stocks to Buy: Smart Artificial Intelligence Investments",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+                "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "SNOW": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/2024/05/09/millionaire-maker-artificial-intelligence-ai-stock/",
+                "title": "2 Millionaire-Maker Artificial Intelligence (AI) Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.kiplinger.com/investing/stocks/tech-stocks/604842/smart-artificial-intelligence-ai-stocks-to-buy",
+                "title": "Best AI Stocks to Buy: Smart Artificial Intelligence Investments",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "AMD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.cnbc.com/2024/05/07/here-are-other-ai-stocks-vulnerable-to-profit-taking-as-druckenmiller-sells-some-nvidia.html",
+                "title": "AI stocks vulnerable to profit taking as Druckenmiller sells Nvidia",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/StockSavvyShay/status/1784554585014612049",
+                "text": "Here is my \u2018cheat sheet\u2019 broken down by sector that I\u2019m watching this earnings season \ud83d\udc47\ud83c\udffc\n\n\ud83e\udd16 Generative AI | $MSFT, $SNOW, $PLTR, $MDB, $DDOG, $CFLT, $PATH\n\n\u26a1\ufe0f Chip Industry | $NVDA, $AMD, $KLAC, $AMAT, $AVGO, $ARM, $TSM, $MU, $MRVL, $ASML\n\n\u2601\ufe0f Cloud Infrastructure | $GOOGL, $MSFT, $AMZN, $DOCN\n\n\ud83d\udcb8 Fintech | $SOFI, $PYPL, $FOUR, $DLO, $HOOD, $ADYEY, $NU \n\n\ud83c\udfb2 Small Caps | $TMDX, $INDI, $NVTS, $AEHR, $NNOX, $ASTS, $IONQ, $RKLB, $PI, $HIMS\n\n\ud83d\udecd\ufe0f E-Commerce | $MELI, $GLBE, $SHOP, $SE, $CPNG, $JMIA\n\n\ud83d\udd0b Solar/EV | $TSLA, $FSLR, $ENPH, $STEM, $ENVX, $EOSE",
+                "username": "StockSavvyShay",
+                "user_url": "https://twitter.com/StockSavvyShay",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1673400109130985472/l7gl8_pD_normal.jpg",
+                "date": "2024-04-28T12:05:43Z"
+            },
+            {
+                "url": "https://twitter.com/ripster47/status/1785131316985413777",
+                "text": "\ud83d\udea8\ud83d\udca1 Community Trade Recaps & Teachings\n-->How to Identify Choppiness & Sit On Hands $SPY $QQQ\n-->Identify Sector Weakness at Open $NVDA $AMD\n-->Relative Strength Plays $BA $SMCI \n-->34/50 Flag Setup $TSLA\n\ud83d\udc47\ud83d\udc47\nhttps://t.co/qMfZuargra\n\n$NVDA $AAPL $SHOP $MSFT $SPX $COIN",
+                "username": "ripster47",
+                "user_url": "https://twitter.com/ripster47",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1742746327514329088/QOb_mn9v_normal.jpg",
+                "date": "2024-04-30T02:17:26Z"
+            },
+            {
+                "url": "https://twitter.com/BitgetWallet/status/1786017828354863125",
+                "text": "Bitcoin's movement is increasingly in sync with the traditional markets, particularly tech sector stocks like $NVDA, $MSFT and $AMD!\n\nAs these stocks experience downturns, Bitcoin follows, reminding us of its role as a risk asset and not a safe haven \ud83d\ude45\u200d\u2642\ufe0f\n\n3/",
+                "username": "BitgetWallet",
+                "user_url": "https://twitter.com/BitgetWallet",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1742532543507992576/Kg_Q4dU__normal.png",
+                "date": "2024-05-02T13:00:07Z"
+            }
+        ],
+        "experts": []
+    },
+    "META": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.stash.com/learn/top-ai-companies/",
+                "title": "15 Largest AI Companies in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.theforage.com/blog/companies/top-ai-companies",
+                "title": "22+ Top AI Companies to Watch in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/IamJohnJsmith/status/1787140819222237660",
+                "text": "May 24\u2019 is the Month of #SwingTrading stocks in $XLC & $XLK sectors. I\u2019m more invested in $XLC. \n\nTop 4 Companies in $XLC:\n$NFLX \n$GOOGL\n$META\n$DIS (Earnings May 7th) \n\nTop 4 Companies in $XLK:\n$MSFT\n$AAPL (Earnings was May 2nd) \n$NVDA (Earnings May 22nd)\n$TSM \n\n$SPY #SPY #StockMarketNews #StockMarket #OptionsTrading",
+                "username": "IamJohnJsmith",
+                "user_url": "https://twitter.com/IamJohnJsmith",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1035198915149062144/S3PfK4oD_normal.jpg",
+                "date": "2024-05-05T15:22:29Z"
+            },
+            {
+                "url": "https://twitter.com/simon_ree/status/1785303161089183980",
+                "text": "**Big Tech \u2013 Back to Reality**\n\nIn today\u2019s video newsletter, we dive into the heart of the tech sector, where I explore the pulse of the NASDAQ following recent earnings announcements from tech titans such as $MSFT, $GOOGL, $NFLX, $META and $TSLA. I also preview earnings this week from $AMZN and $AAPL. \n\nI\u2019ll break down their stock performances, and provide insight into the emerging trends and the underlying risks shaping the landscape. \n\nThis video is your essential guide to understanding key market movements and crafting strategic trading decisions in the dynamic world of big tech. \n\nTune in to learn why I think the next move in the NASDAQ is likely to be lower!\n\nSubscribe to the Tao Daily video newsletter by clicking the link in profile",
+                "username": "simon_ree",
+                "user_url": "https://twitter.com/simon_ree",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1732953516518543360/4HJCW9tM_normal.jpg",
+                "date": "2024-04-30T13:40:17Z"
+            },
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1786797728049094733",
+                "text": "\ud83d\udce3 JUST IN: $BRK.B Warren Buffett Cautions on AI's Role in Scamming as Potential Growth Industry #AI\n\n$MSFT $NVDA $TSLA $AMZN $GOOGL $AAPL $META\n\n\ud83d\udc49 Key Highlights:\n\n\ud83d\udccd Buffett highlights AI's potential to enhance scamming.\n\n\ud83d\udccd Warns AI can replicate realistic and misleading content.\n\n\ud83d\udccd AI-driven scams could use voice-cloning and deep-fake technology.\n\n\ud83d\udccd Despite AI's potential for good, risks of harm are significant.\n\n\ud83d\udccd AI stocks like Nvidia and Meta Platforms see dramatic gains.\n\n\ud83d\udccd Buffett compares AI\u2019s potential dangers to the atomic bomb.\n\n\ud83d\udc49 Context/Background:\n\nAt the Berkshire Hathaway annual meeting, Warren Buffett expressed strong reservations about artificial intelligence, particularly its misuse in scamming, emphasizing its dual potential for both significant benefit and harm.\n\n\ud83d\udc49 Why This Matters:\n\n\ud83d\udccd Raises awareness about the ethical and security challenges of AI.\n\n\ud83d\udccd Highlights the need for cautious investment in AI technologies.\n\n\ud83d\udc49 Market Insights:\n\n\ud83d\udccd AI\u2019s impact on tech stocks and investor behavior remains profound.\n\n\ud83d\udc49 Expert Statement:\n\n\ud83d\udde8\ufe0f \"When you think about the potential for scamming people... it\u2019s gonna be the growth industry of all time and it\u2019s enabled, in a way, by AI,\" - Warren Buffett.\n\n\ud83d\udde8\ufe0f \"AI has enormous potential for good and enormous potential for harm \u2014 and I just don\u2019t know how that plays out,\" - Warren Buffett.\n\n\ud83d\udde8\ufe0f \"We let the genie out of the bottle with nuclear weapons... AI is somewhat similar. It\u2019s part of the way out of the bottle,\" - Warren Buffett.\n\n\ud83d\udc49 Impact & Recommendations:\n\n\ud83d\udccd Investors should consider the ethical implications and potential regulatory responses when investing in AI technologies.\n\n\ud83d\udccd Monitoring developments in AI governance could provide critical insights for stakeholders.\n\n\ud83d\udd04 Follow @AIStockSavvy for real-time updates. Don\u2019t forget to like, retweet, and turn on notifications for unparalleled insights.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-05-04T16:39:10Z"
+            }
+        ],
+        "experts": []
+    },
+    "TSLA": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://sitegpt.ai/blog/companies-using-chatbots-for-customer-service",
+                "title": "16 Leading Companies Using Chatbots for Customer Service",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/05/7-robotics-stocks-to-bet-on-for-reliable-ai-powered-returns/",
+                "title": "7 Robotics Stocks to Bet On for Reliable AI-Powered Returns",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/ripster47/status/1785131316985413777",
+                "text": "\ud83d\udea8\ud83d\udca1 Community Trade Recaps & Teachings\n-->How to Identify Choppiness & Sit On Hands $SPY $QQQ\n-->Identify Sector Weakness at Open $NVDA $AMD\n-->Relative Strength Plays $BA $SMCI \n-->34/50 Flag Setup $TSLA\n\ud83d\udc47\ud83d\udc47\nhttps://t.co/qMfZuargra\n\n$NVDA $AAPL $SHOP $MSFT $SPX $COIN",
+                "username": "ripster47",
+                "user_url": "https://twitter.com/ripster47",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1742746327514329088/QOb_mn9v_normal.jpg",
+                "date": "2024-04-30T02:17:26Z"
+            },
+            {
+                "url": "https://twitter.com/KevRGordon/status/1788238996155343007",
+                "text": "The Utilities sector is outperforming three Magnificent 7 members -- $MSFT, $AAPL, and $TSLA -- so far this year https://t.co/IxDvXyl2XY",
+                "username": "KevRGordon",
+                "user_url": "https://twitter.com/KevRGordon",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1768756367593177088/ccXrOxex_normal.jpg",
+                "date": "2024-05-08T16:06:15Z"
+            },
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1786816672793284863",
+                "text": "$FTZ $FTZFF Copper is going to see the largest run in the metals sector IMO $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BYND $CRON $DIS $DISH $ELY $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU $SNAP $SPY $TLT $T $TSLA $TVIX $UWT $UVXY $V $VXX $XOM",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-05-04T17:54:26Z"
+            }
+        ],
+        "experts": []
+    },
+    "V": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1786816672793284863",
+                "text": "$FTZ $FTZFF Copper is going to see the largest run in the metals sector IMO $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BYND $CRON $DIS $DISH $ELY $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU $SNAP $SPY $TLT $T $TSLA $TVIX $UWT $UVXY $V $VXX $XOM",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-05-04T17:54:26Z"
+            },
+            {
+                "url": "https://twitter.com/BossTradingGrp/status/1788711796695834757",
+                "text": "#DARKPOOL\nLARGE: $MSFT $DELL $MRVL $WDC $SE $TCOM $UBER $RUN $EOLS $ETWO $IAS $SABR $RPRX $VRT $LLY $TJX $V  \nSECTOR: $XLP \nETF: $FXI $KWEB\n\n$SPY $QQQ $IWM $VXX $UVXY $SPX $RTY $DIA $VXX $TQQQ $SQQQ #BOSSTrading https://t.co/Njn9a4CNOP",
+                "username": "BossTradingGrp",
+                "user_url": "https://twitter.com/BossTradingGrp",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1784669782991847424/FkGtGIcJ_normal.jpg",
+                "date": "2024-05-09T23:24:59Z"
+            },
+            {
+                "url": "https://twitter.com/BulldudeC/status/1786775255983296732",
+                "text": "(Weekly) S&amp;P 500: Which Are the Best Companies in Each Sector?\n\nhttps://t.co/Ci7s18p2wA\n\n$AAPL $AMZN $GOOG $MSFT $META $SNAP $TSLA $NIO $INTC $NVDA $AMD $JPM $V $MA $PYPL $SHOP $NFLX $DIS $BABA $TLRY $SPX $SPY $NDX $QQQ",
+                "username": "BulldudeC",
+                "user_url": "https://twitter.com/BulldudeC",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1333096912652824578/Fv3G5dDo_normal.jpg",
+                "date": "2024-05-04T15:09:52Z"
+            }
+        ],
+        "experts": []
+    },
+    "BAC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://sitegpt.ai/blog/companies-using-chatbots-for-customer-service",
+                "title": "16 Leading Companies Using Chatbots for Customer Service",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.sprinklr.com/blog/chatbot-examples/",
+                "title": "15 Best chatbot examples from groundbreaking brands",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.linkedin.com/pulse/20-companies-effectively-using-ai-chatbots-customer-support-tiny-talk-p5j3e",
+                "title": "20 Companies Effectively Using AI Chatbots for Customer ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "DPZ": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://sitegpt.ai/blog/companies-using-chatbots-for-customer-service",
+                "title": "16 Leading Companies Using Chatbots for Customer Service",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.sprinklr.com/blog/chatbot-examples/",
+                "title": "15 Best chatbot examples from groundbreaking brands",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "SBUX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.linkedin.com/pulse/20-companies-effectively-using-ai-chatbots-customer-support-tiny-talk-p5j3e",
+                "title": "20 Companies Effectively Using AI Chatbots for Customer ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://smith.ai/blog/12-chatbot-examples-from-top-us-businesses",
+                "title": "12 Chatbot Examples from Top US Businesses",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "UBER": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=h_Nh1HohfKw",
+                "title": "How Leading Brands are Using Chatbots in 2024 | Sprinklr",
+                "youtube_embed_url": "https://www.youtube.com/embed/h_Nh1HohfKw"
+            },
+            {
+                "url": "https://www.sprinklr.com/blog/chatbot-examples/",
+                "title": "15 Best chatbot examples from groundbreaking brands",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.linkedin.com/pulse/20-companies-effectively-using-ai-chatbots-customer-support-tiny-talk-p5j3e",
+                "title": "20 Companies Effectively Using AI Chatbots for Customer ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "YUM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.sprinklr.com/blog/chatbot-examples/",
+                "title": "15 Best chatbot examples from groundbreaking brands",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://blog.hubspot.com/service/companies-using-ai-for-customer-service",
+                "title": "5 Companies Using AI for Customer Service",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://smith.ai/blog/12-chatbot-examples-from-top-us-businesses",
+                "title": "12 Chatbot Examples from Top US Businesses",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    }
+}
